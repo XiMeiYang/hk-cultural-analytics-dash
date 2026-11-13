@@ -1,26 +1,26 @@
-facility,全港性节庆及免费文娱节目 / 全港性节庆,全港性节庆及免费文娱节目 / 其他,文物及博物馆活动 / 展览,表演艺术及电影 / 中国戏曲,表演艺术及电影 / 其他,表演艺术及电影 / 合家欢节目,表演艺术及电影 / 展览,表演艺术及电影 / 工作坊/课程,表演艺术及电影 / 戏剧,表演艺术及电影 / 流行音乐会,表演艺术及电影 / 电影,表演艺术及电影 / 综合表演,表演艺术及电影 / 舞蹈,表演艺术及电影 / 艺术节,表演艺术及电影 / 跨媒体艺术,表演艺术及电影 / 音乐,香港公共图书馆推广活动 / 其他
-East Kowloon Cultural Centre,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,5.0,2.0,1.0,2.0,6.0,0.0,5.0,12.0,0.0
-Hang Hau Sports Centre,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Hong Kong Central Library,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0
-Hong Kong City Hall,0.0,0.0,0.0,0.0,0.0,0.0,14.0,0.0,2.0,0.0,2.0,0.0,0.0,3.0,0.0,42.0,0.0
+facility,Cultural Presentations and Film / Chinese Opera,Cultural Presentations and Film / Dance,Cultural Presentations and Film / Exhibition,Cultural Presentations and Film / Family Entertainment,Cultural Presentations and Film / Festivals,Cultural Presentations and Film / Film,Cultural Presentations and Film / Multi-Arts,Cultural Presentations and Film / Music,Cultural Presentations and Film / Others,Cultural Presentations and Film / Pop Concerts,Cultural Presentations and Film / Theatre,Cultural Presentations and Film / Variety Shows,Cultural Presentations and Film / Workshop / Course,Heritage & Museums Programme / Exhibition,Hong Kong Public Libraries Extension Activity / Others,Territory-wide & Free Entertainment Programme / Others,Territory-wide & Free Entertainment Programme / Territory-wide Carnivals
+East Kowloon Cultural Centre,3.0,6.0,0.0,0.0,0.0,1.0,5.0,12.0,0.0,2.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0
+Hang Hau Sports Centre,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+Hong Kong Central Library,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0
+Hong Kong City Hall,0.0,0.0,14.0,0.0,3.0,2.0,0.0,42.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Hong Kong Coliseum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Hong Kong Cultural Centre,1.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,5.0,0.0,2.0,0.0,1.0,2.0,0.0,25.0,0.0
-Hong Kong Film Archive,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0
-Hong Kong Heritage Museum,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Hong Kong Space Museum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,1.0,0.0,1.0,0.0
-Hong Kong University of Science and Technology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-Ko Shan Theatre,0.0,0.0,0.0,75.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Kwai Tsing Theatre,0.0,0.0,0.0,12.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,3.0,2.0,0.0,0.0,1.0,0.0
-Ngau Chi Wan Civic Centre,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,7.0,1.0,0.0,0.0,5.0,0.0
-North District Town Hall,0.0,0.0,0.0,0.0,17.0,0.0,0.0,23.0,0.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0
-Queen Elizabeth Stadium,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-"Rayson Huang Theatre, The University of Hong Kong",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
-Sai Wan Ho Civic Centre,0.0,13.0,0.0,2.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,2.0,1.0,0.0,0.0,12.0,0.0
-Sha Tin Town Hall,0.0,0.0,0.0,1.0,26.0,0.0,1.0,83.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0
-Sheung Wan Civic Centre,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,11.0,1.0,0.0,0.0,4.0,0.0
-TWGHs Jockey Club Tin Shui Wai Integrated Services Centre,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Tai Po Civic Centre,0.0,0.0,0.0,0.0,12.0,0.0,2.0,14.0,0.0,0.0,0.0,7.0,1.0,0.0,0.0,0.0,0.0
-Tsuen Wan Town Hall,0.0,0.0,0.0,8.0,1.0,0.0,3.0,0.0,0.0,14.0,0.0,4.0,0.0,3.0,0.0,9.0,0.0
-Tuen Mun Town Hall,0.0,0.0,0.0,22.0,1.0,1.0,7.0,66.0,3.0,14.0,0.0,5.0,2.0,2.0,0.0,7.0,0.0
-Victoria Park,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Yuen Long Theatre,0.0,2.0,0.0,25.0,3.0,0.0,1.0,0.0,1.0,6.0,0.0,1.0,55.0,0.0,0.0,15.0,0.0
+Hong Kong Cultural Centre,3.0,1.0,0.0,0.0,2.0,2.0,0.0,25.0,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0
+Hong Kong Film Archive,0.0,0.0,1.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Hong Kong Heritage Museum,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hong Kong Space Museum,0.0,0.0,0.0,0.0,1.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hong Kong University of Science and Technology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ko Shan Theatre,75.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kwai Tsing Theatre,12.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
+Ngau Chi Wan Civic Centre,1.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,3.0,7.0,0.0,0.0,0.0,0.0,0.0
+North District Town Hall,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,0.0,0.0,4.0,23.0,0.0,0.0,0.0,0.0
+Queen Elizabeth Stadium,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Rayson Huang Theatre, The University of Hong Kong",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sai Wan Ho Civic Centre,2.0,1.0,1.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,13.0,0.0
+Sha Tin Town Hall,1.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,26.0,0.0,2.0,1.0,83.0,0.0,0.0,0.0,0.0
+Sheung Wan Civic Centre,3.0,1.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0
+TWGHs Jockey Club Tin Shui Wai Integrated Services Centre,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Tai Po Civic Centre,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,7.0,14.0,0.0,0.0,0.0,0.0
+Tsuen Wan Town Hall,8.0,0.0,3.0,0.0,3.0,0.0,0.0,9.0,1.0,14.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0
+Tuen Mun Town Hall,22.0,2.0,7.0,1.0,2.0,0.0,0.0,7.0,1.0,14.0,3.0,5.0,66.0,0.0,0.0,0.0,0.0
+Victoria Park,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Yuen Long Theatre,25.0,55.0,1.0,0.0,0.0,0.0,0.0,15.0,3.0,6.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0

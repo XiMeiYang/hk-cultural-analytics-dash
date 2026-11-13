@@ -1,10 +1,10 @@
-group,仅实体,仅非实体,两者皆有,any_pct,alternative_pct,alternative_share,label
-Dance,3,13,6,22,19,86.36363636363636,舞蹈
-Film Arts,5,10,9,24,19,79.16666666666666,电影艺术
-Literary Activities,10,11,5,26,16,61.53846153846154,文学活动
-Literary Reading,7,4,11,22,15,68.18181818181817,文学阅读
-Multi-arts,1,3,2,6,5,83.33333333333334,跨媒体艺术
-Music,4,14,7,25,21,84.0,音乐
-Theatre,4,12,6,22,18,81.81818181818183,戏剧
-Visual Arts,8,10,7,25,17,68.0,视觉艺术
-Xiqu,2,9,6,17,15,88.23529411764706,戏曲
+group,Physical only,Alternative only,Both,any_pct,alternative_pct,alternative_share,label
+Dance,3,13,6,22,19,86.36363636363636,Dance
+Film Arts,5,10,9,24,19,79.16666666666666,Film Arts
+Literary Activities,10,11,5,26,16,61.53846153846154,Literary Activities
+Literary Reading,7,4,11,22,15,68.18181818181817,Literary Reading
+Multi-arts,1,3,2,6,5,83.33333333333334,Multi-arts
+Music,4,14,7,25,21,84.0,Music
+Theatre,4,12,6,22,18,81.81818181818183,Theatre
+Visual Arts,8,10,7,25,17,68.0,Visual Arts
+Xiqu,2,9,6,17,15,88.23529411764706,Xiqu

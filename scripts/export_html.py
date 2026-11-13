@@ -12,8 +12,8 @@ def main():
     figs=[density_map(e,'white-bg'),bivariate_map(d,'white-bg'),bivariate_legend(),comparison_scatter(d),
           network_fig(m,vl,cl),community_heatmap(m,vl),community_map(e,m,vl,'white-bg'),
           ca_biplot(p,ca),participation_bar(p),modes_heatmap(p)]
-    html=['<!doctype html><html lang="zh"><meta charset="utf-8"><title>香港文化分析</title><body style="max-width:1100px;margin:30px auto;font-family:sans-serif"><h1>香港公共文化消费的多维可视分析</h1>',
-          '<p>2026-10-02事件快照；历史2025年；问卷参考期2021/07–2022/07。离线地图不含道路底图，保留真实经纬度。空间比较存在覆盖与主办方口径差异；非实体参与包含电视、广播和CD，并非纯线上参与。CA不作显著性推断。</p>']
+    html=['<!doctype html><html lang="en"><meta charset="utf-8"><title>Hong Kong Cultural Analytics</title><body style="max-width:1100px;margin:30px auto;font-family:sans-serif"><h1>Multidimensional Visual Analytics of Cultural Consumption in Hong Kong</h1>',
+          '<p>Historical and current event shares have different coverage. Alternative participation includes television, radio and CD, not only online channels. CA is descriptive. Offline maps retain coordinates without a road basemap.</p>']
     for i,f in enumerate(figs):html.append(pio.to_html(f,full_html=False,include_plotlyjs=True if i==0 else False))
     html.append('</body></html>');out=ROOT/'exports';out.mkdir(exist_ok=True)
     (out/'member4_report.html').write_text('\n'.join(html),encoding='utf-8')

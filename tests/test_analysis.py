@@ -61,3 +61,20 @@ def test_dash_endpoints_and_filtered_callbacks():
         spatial=update_spatial(category,'2025','Performance','white-bg')
         network=update_network(category,1,'white-bg')
         for fig in [*spatial[:3],*network[:3]]:assert fig.to_json()
+
+def test_english_interface_and_removed_sections():
+    import json
+    import re
+    from app import server, update_spatial, update_network, EVENTS, switch_tab
+    han = re.compile(r'[\u3400-\u9fff]')
+    layout = json.dumps(server.test_client().get('/_dash-layout').get_json(), ensure_ascii=False)
+    assert not han.search(layout)
+    assert 'panel-methods' not in layout and 'MEMBER 04' not in layout
+    assert 'subtitle' not in layout and 'className": "tag"' not in layout
+    assert len(switch_tab('s4')) == 4
+    for category in ['ALL', *EVENTS.category.unique()]:
+        for result in [update_spatial(category,'2025','Performance','white-bg'),
+                       update_network(category,1,'white-bg')]:
+            assert not han.search(result[-1])
+            for fig in result[:3]:
+                assert not han.search(json.dumps(json.loads(fig.to_json()),ensure_ascii=False))

@@ -20,7 +20,7 @@ FACILITIES = {
 ART_ZH = {'Dance':'舞蹈','Theatre':'戏剧','Music':'音乐','Xiqu':'戏曲',
           'Multi-arts':'跨媒体艺术','Visual Arts':'视觉艺术','Film Arts':'电影艺术',
           'Literary Reading':'文学阅读','Literary Activities':'文学活动'}
-MODES = ['仅实体', '仅非实体', '两者皆有']
+MODES = ['Physical only', 'Alternative only', 'Both']
 
 def load_data(root=ROOT / 'data/source'):
     events = pd.read_csv(root / 'events_current_flat.csv', dtype=str)
@@ -32,10 +32,10 @@ def load_data(root=ROOT / 'data/source'):
         raise ValueError('Duplicate event or venue primary key')
     for col in ['cat1', 'cat2']:
         events[col] = events[col].str.strip().str.upper()
-    names = categories.set_index('code').name_sc.to_dict()
-    events['category'] = events.cat2.map(names).fillna(events.cat2).fillna('未分类')
+    names = categories.set_index('code').name_en.to_dict()
+    events['category'] = events.cat2.map(names).fillna(events.cat2).fillna('Unclassified')
     # Prefix distinguishes equally named categories across different service families.
-    events['category'] = events.cat1.map(names).fillna('未分类') + ' / ' + events.category
+    events['category'] = events.cat1.map(names).fillna('Unclassified') + ' / ' + events.category
     events = events.merge(venues, left_on='venueid', right_on='venue_id', how='left', validate='many_to_one', indicator=True)
     events['venue_matched'] = events['_merge'].eq('both')
     events = events.drop(columns='_merge')
@@ -119,11 +119,11 @@ def bipartite_communities(matrix, resolution=1.0):
 def participation_modes(survey):
     p=survey[survey.group.ne('Any Art Form')].pivot(index='group',columns='metric',values='value_pct')
     u=p['any_mode_participation_pct']; a=p['alternative_mode_participation_pct']; ph=p['physical_mode_participation_pct']
-    out=pd.DataFrame({'仅实体':u-a,'仅非实体':u-ph,'两者皆有':ph+a-u})
+    out=pd.DataFrame({'Physical only':u-a,'Alternative only':u-ph,'Both':ph+a-u})
     if (out<0).any().any() or not np.allclose(out.sum(axis=1),u):
         raise ValueError('Rounded source rates do not support consistent mutually exclusive modes')
     out['any_pct']=u;out['alternative_pct']=a;out['alternative_share']=a/u*100
-    out['label']=[ART_ZH.get(x,x) for x in out.index]
+    out['label']=out.index
     return out
 
 def correspondence_analysis(values):
