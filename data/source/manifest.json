@@ -1,0 +1,77 @@
+{
+  "snapshot_date": "2026-10-02",
+  "files": [
+    {
+      "file": "events_current_flat.csv",
+      "rows": 878,
+      "archive_original_sha256": "677c9e0cf76bbc8224ed8b50f91a197af54469c1462c90fa11aeca06b7e0a8ed",
+      "published_columns": [
+        "event_id",
+        "cat1",
+        "cat2",
+        "venueid"
+      ],
+      "published_sha256": "253dc8b0638a621e85314f1d8194e7e31eb8a698e0bee0b11fca17f47c7f9071"
+    },
+    {
+      "file": "venues_current_flat.csv",
+      "rows": 94,
+      "archive_original_sha256": "a34d33bb63f5945229f8c48251f8b7aa8a1775f6b0df0ca4cdfa8a1b45afff56",
+      "published_columns": [
+        "venue_id",
+        "venuee",
+        "venuec",
+        "latitude",
+        "longitude"
+      ],
+      "published_sha256": "ae1670bf25e6cc838206288657ccb18b2e111c003df0562785e9fa4f25e6623e"
+    },
+    {
+      "file": "event_category_codebook.csv",
+      "rows": 36,
+      "archive_original_sha256": "d2a87a7eab55594416a316dbe3a1f4860829445ec729222a8c3aac51370e78e2",
+      "published_columns": [
+        "level",
+        "code",
+        "name_en",
+        "name_tc",
+        "name_sc",
+        "source"
+      ],
+      "published_sha256": "d2a87a7eab55594416a316dbe3a1f4860829445ec729222a8c3aac51370e78e2"
+    },
+    {
+      "file": "lcsd_cultural_programmes_by_venue.csv",
+      "rows": 271,
+      "archive_original_sha256": "643a897c44478e13c91310480160792e558e24096d2366ab733f4b0320683e45",
+      "published_columns": [
+        "Year",
+        "Quarter",
+        "Venue_Code",
+        "Performance",
+        "Attendance",
+        "Remarks_en",
+        "Remarks_tc",
+        "Remarks_sc"
+      ],
+      "published_sha256": "f98d0defea01479aef567ca6c8ddaf4a84dfe9bcf501ef26b57343d4ee74ba24"
+    },
+    {
+      "file": "stage3_participation_by_art_form.csv",
+      "rows": 40,
+      "archive_original_sha256": "5a4724ea3d14ce3cf37fde57ca93f8fe3bda2831bb5258c309be9afa7796b5f2",
+      "published_columns": [
+        "dimension",
+        "group",
+        "metric",
+        "value_pct",
+        "gap_vs_2020_pp",
+        "base_n",
+        "source_page",
+        "source_pdf",
+        "data_status"
+      ],
+      "published_sha256": "57853362299997a09e29684300eeb5e96b481e065defe28853a2a7f52e609607"
+    }
+  ]
+}

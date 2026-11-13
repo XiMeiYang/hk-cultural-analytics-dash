@@ -1,0 +1,37 @@
+level,code,name_en,name_tc,name_sc,source
+1,INC1,Recreation & Sports Activities,康樂及體育活動,康乐及体育活动,cultural_programmes_data_dictionary.pdf pp.7-9
+1,INC3,Community Greening Activities,社區綠化活動,社区绿化活动,cultural_programmes_data_dictionary.pdf pp.7-9
+1,INC4,Cultural Presentations and Film,表演藝術及電影,表演艺术及电影,cultural_programmes_data_dictionary.pdf pp.7-9
+1,INC6,Heritage & Museums Programme,文物及博物館活動,文物及博物馆活动,cultural_programmes_data_dictionary.pdf pp.7-9
+1,INC7,Hong Kong Public Libraries Extension Activity,香港公共圖書館推廣活動,香港公共图书馆推广活动,cultural_programmes_data_dictionary.pdf pp.7-9
+1,INC9,Territory-wide & Free Entertainment Programme,全港性節慶及免費文娛節目,全港性节庆及免费文娱节目,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC4SC1,Music,音樂,音乐,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC4SC2,Chinese Opera,中國戲曲,中国戏曲,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC4SC3,Dance,舞蹈,舞蹈,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC4SC4,Exhibition,展覽,展览,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC4SC5,Film,電影,电影,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC4SC6,Theatre,戲劇,戏剧,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC4SC7,Multi-Arts,跨媒體藝術,跨媒体艺术,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC4SC8,Others,其他,其他,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC4SC9,Pop Concerts,流行音樂會,流行音乐会,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC4SC10,Festivals,藝術節,艺术节,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC4SC11,Family Entertainment,合家歡節目,合家欢节目,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC4SC12,Variety Shows,綜合表演,综合表演,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC4SC13,Audience Building Activities,觀眾拓展活動,观众拓展活动,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC4SC14,Workshop / Course,工作坊/課程,工作坊/课程,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC6SC1,Exhibition,展覽,展览,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC6SC2,Education & Extension Activity,教育及推廣活動,教育及推广活动,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC6SC3,Omnimax Show,全天域電影,全天域电影,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC6SC4,Sky Show,天象節目,天象节目,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC6SC5,Others,其他,其他,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC6SC7,Open Competition,公開比賽,公开比赛,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC7SC1,Children Programmes,兒童節目,儿童节目,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC7SC2,User Education,讀者教育活動,读者教育活动,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC7SC3,Exhibitions,展覽,展览,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC7SC4,Reading Activities,閱讀活動,阅读活动,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC7SC5,Subject Talks / Workshops,專題講座 / 工作坊,专题讲座 / 工作坊,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC7SC6,Literary Activities,文學活動,文学活动,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC7SC8,Others,其他,其他,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC9SC1,Territory-wide Carnivals,全港性節慶,全港性节庆,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC9SC2,Free Entertainment Programme,定期免費娛樂節目,定期免费娱乐节目,cultural_programmes_data_dictionary.pdf pp.7-9
+2,INC9SC3,Others,其他,其他,cultural_programmes_data_dictionary.pdf pp.7-9

@@ -1,0 +1,27 @@
+{
+  "snapshot_date": "2026-10-02",
+  "event_rows": 878,
+  "event_ids_unique": true,
+  "matched_venue_rows": 878,
+  "mapped_events": 812,
+  "unmapped_events": 66,
+  "specific_site_events": 837,
+  "excluded_area_aggregate_events": 41,
+  "network_facilities": 25,
+  "network_categories": 17,
+  "network_edges": 106,
+  "communities": 8,
+  "bipartite_modularity_gamma_1": 0.5066624415296709,
+  "history_missing_performance": 34,
+  "comparison_default_facilities": 14,
+  "comparison_default_spearman": 0.2571428571428571,
+  "ca_rank": 2,
+  "ca_inertia": [
+    0.061485693836776205,
+    0.030707544594020676
+  ],
+  "ca_explained": [
+    0.6669219444214369,
+    0.333078055578563
+  ]
+}
